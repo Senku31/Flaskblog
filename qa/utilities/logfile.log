@@ -1,0 +1,62 @@
+2024-08-24 20:03:10,429 :INFO : test_log_in :Filling in the log in form
+2024-08-24 20:04:10,029 :INFO : test_log_in :Filling in the log in form
+2024-08-24 20:05:06,053 :INFO : test_log_in :Filling in the log in form
+2024-08-24 20:05:34,123 :INFO : test_log_in :Filling in the log in form
+2024-08-24 20:13:32,324 :INFO : test_log_in :Filling in the log in form
+2024-08-24 20:14:51,533 :INFO : test_log_in :Filling in the log in form
+2024-08-24 20:27:21,248 :INFO : test_register_user :Filling in the register form
+2024-08-24 20:27:43,210 :INFO : test_register_user :Filling in the register form
+2024-08-24 20:29:48,902 :INFO : test_register_user :Filling in the register form
+2024-08-24 20:56:31,476 :INFO : test_username_is_taken_error_message :Filling in the register form with existing user data
+2024-08-24 20:56:57,570 :INFO : test_username_is_taken_error_message :Filling in the register form with existing user data
+2024-08-24 21:01:06,201 :INFO : test_passwords_dont_match_error_message :Filling in the register form with different confirm password
+2024-08-24 21:02:23,740 :INFO : test_invalid_email_error_message :Filling in the register form with invalid email format
+2024-08-24 21:02:43,491 :INFO : test_invalid_email_error_message :Filling in the register form with invalid email format
+2024-08-24 21:11:52,690 :INFO : test_username_is_taken_error_message :Filling in the register form with existing user data
+2024-08-24 21:12:00,149 :INFO : test_passwords_dont_match_error_message :Filling in the register form with different confirm password
+2024-08-24 21:12:19,990 :INFO : test_invalid_email_error_message :Filling in the register form with invalid email format
+2024-08-24 21:13:35,521 :INFO : test_register_user :Filling in the register form with new user data
+2024-08-24 21:13:36,278 :INFO : test_register_user :Checking if the success message has been displayed
+2024-08-24 21:18:35,114 :INFO : test_successful_log_in :Filling in the log in form
+2024-08-24 21:19:50,198 :INFO : test_successful_log_in :Filling in the log in form
+2024-08-24 21:19:51,334 :INFO : test_successful_log_in :The user has been logged in
+2024-08-24 21:24:33,316 :INFO : test_unsuccessful_log_in :Filling in the log in form
+2024-08-24 21:24:34,052 :INFO : test_unsuccessful_log_in :The user has not been logged in
+2024-08-28 23:19:51,770 :INFO : test_create_new_post :The user has been logged in
+2024-08-28 23:22:22,195 :INFO : test_create_new_post :The user has been logged in
+2024-08-28 23:23:41,627 :INFO : test_create_new_post :The user has been logged in
+2024-08-28 23:26:51,156 :INFO : test_create_new_post :The user has been logged in
+2024-08-28 23:27:22,814 :INFO : test_create_new_post :The user has been logged in
+2024-08-28 23:29:01,616 :INFO : test_create_new_post :The user has been logged in
+2024-08-28 23:30:12,630 :INFO : test_create_new_post :The user has been logged in
+2024-08-28 23:30:38,057 :INFO : test_create_new_post :The user has been logged in
+2024-08-28 23:31:13,653 :INFO : test_create_new_post :The user has been logged in
+2024-08-28 23:31:40,946 :INFO : test_create_new_post :The user has been logged in
+2024-08-28 23:34:05,703 :INFO : test_create_new_post :The user has been logged in
+2024-08-28 23:36:13,905 :INFO : test_create_new_post :The user has been logged in
+2024-08-28 23:37:07,156 :INFO : test_update_post :The user has been logged in
+2024-08-28 23:37:32,661 :INFO : test_update_post :The user has been logged in
+2024-08-28 23:37:57,441 :INFO : test_delete_post :The user has been logged in
+2024-08-28 23:39:35,229 :INFO : test_delete_post :The user has been logged in
+2024-08-28 23:41:24,666 :INFO : test_delete_post :The user has been logged in
+2024-08-28 23:48:48,084 :INFO : test_create_new_post :The user has been logged in
+2024-08-28 23:49:01,016 :INFO : test_update_post :The user has been logged in
+2024-08-28 23:49:06,813 :INFO : test_delete_post :The user has been logged in
+2024-08-28 23:49:17,434 :INFO : test_post_is_displayed :Post elements are displayed
+2024-08-28 23:49:33,570 :INFO : test_create_new_post :The user has been logged in
+2024-08-28 23:49:42,007 :INFO : test_update_post :The user has been logged in
+2024-08-28 23:49:50,546 :INFO : test_delete_post :The user has been logged in
+2024-08-28 23:52:56,877 :INFO : test_create_new_post :The user has been logged in
+2024-09-04 15:16:18,911 :INFO : test_selenium_about :Checking if About Page header is displayed
+2024-09-04 15:16:33,291 :INFO : test_selenium_about :Checking if About Page header is displayed
+2024-09-04 17:19:59,289 :INFO : test_update_picture :Updating user picture
+2024-09-04 17:20:59,618 :INFO : test_update_picture :Updating user picture
+2024-09-04 17:20:59,638 :INFO : test_update_picture :User data has been updated
+2024-09-04 17:21:51,275 :INFO : test_update_picture :Updating user picture
+2024-09-04 17:21:51,436 :INFO : test_update_picture :User data has been updated
+2024-09-04 17:34:37,221 :INFO : test_update_picture :Updating user picture
+2024-09-04 17:34:37,356 :INFO : test_update_picture :User data has been updated
+2024-09-04 17:44:47,961 :INFO : test_log_out :Filling in the log in form
+2024-09-04 17:44:49,066 :INFO : test_log_out :The user has been logged in
+2024-09-04 22:22:12,403 :INFO : test_log_out :Filling in the log in form
+2024-09-04 22:22:13,509 :INFO : test_log_out :The user has been logged in
